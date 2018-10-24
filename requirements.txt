@@ -2,3 +2,4 @@ numpy
 tensorflow
 keras>=2.2.4
 regex
+anago==1.0.6
